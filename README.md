@@ -14,3 +14,8 @@ git status
 ```sh 
 git  add <nombre-archivo>
 git add <nombre-archivo> <nombre-archivo> <nombre-archivo>
+
+# persistimos los cambios agregados al area de confirmacion en un commit 
+
+``` sh 
+git commit -m 
