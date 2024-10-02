@@ -23,3 +23,8 @@ git commit -m
 # corregir mensaje 
 ```sh
 git commit --amend -m "mensaje"
+
+# er timeline de commit 
+``sh 
+git log #
+git log - - online 
