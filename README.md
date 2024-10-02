@@ -19,3 +19,7 @@ git add <nombre-archivo> <nombre-archivo> <nombre-archivo>
 
 ``` sh 
 git commit -m 
+
+# corregir mensaje 
+```sh
+git commit --amend -m "mensaje"
